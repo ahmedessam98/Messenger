@@ -126,7 +126,6 @@
 			children = (
 				7F97D44A265AABEF004CA4F8 /* Controller */,
 				7F97D449265AABE6004CA4F8 /* View */,
-				7F97D448265AABDA004CA4F8 /* Model */,
 				7F97D447265AABC4004CA4F8 /* Resources */,
 				7F97D425265AAA46004CA4F8 /* Info.plist */,
 				7F9C1D50265D1DFD002193D8 /* GoogleService-Info.plist */,
@@ -143,13 +142,6 @@
 				7F9C1D52265E5FFB002193D8 /* DatabaseManager.swift */,
 			);
 			path = Resources;
-			sourceTree = "<group>";
-		};
-		7F97D448265AABDA004CA4F8 /* Model */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Model;
 			sourceTree = "<group>";
 		};
 		7F97D449265AABE6004CA4F8 /* View */ = {
